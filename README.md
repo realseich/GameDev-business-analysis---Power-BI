@@ -1,2 +1,18 @@
 # GameDev-business-analysis---Power-BI
-GameDev business analysis. Сohort analysis and segmentation. MS Power BI. Class project.
+Class project.
+
+### About the project  
+- This is one of the projects I made during Data Anlysis course attending.
+- The project got a highest mark. 
+#### Project scope
+- GameDev business analysis using cohort analysis and segmentation.
+#### Dataset and tools
+- Initial dataset was in form of SQL tables. 
+- PostgreSQL requests were used to prepare the data. 
+- Analysis and visualization were done in Power BI.  
+- Visualizations and conclusion could be found in the Power BI report (click the link below).  
+
+
+### Link to the project  
+Task description, visualizations and conclusion could be found in the [Power BI report](https://github.com/realseich/GameDev-business-analysis.-Power-BI./blob/main/Module%2025%2C%20GameDev%2C%20segmentation%2C%20cohorts%2C%20ed6b.pdf).  
+The document is written in Russian, visualization charts legend is parthly in English. 
