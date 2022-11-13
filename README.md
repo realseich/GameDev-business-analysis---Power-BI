@@ -1,4 +1,4 @@
-# GameDev-business-analysis---Power-BI
+# GameDev-business-analysis-2---Power-BI
 Class project.
 
 ### About the project  
