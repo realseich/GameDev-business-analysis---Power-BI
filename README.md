@@ -10,7 +10,7 @@ Class project.
 - Initial dataset was in form of SQL tables. 
 - PostgreSQL requests were used to prepare the data. 
 - Analysis and visualization were done in Power BI.  
-- Visualizations and conclusion could be found in the Power BI report.  
+- Project details, visualizations and conclusion could be found in the Power BI report.  
 
 
 ### Link to the project  
